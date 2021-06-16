@@ -1,9 +1,9 @@
 80
-Strike
+Golpe
 Berserk
-Shoot
+Disparo
 Snipe
-Support
-Protect
-Heal
-Other
+Soporte
+Cubrir
+Curar
+Otro

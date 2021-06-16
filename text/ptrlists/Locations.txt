@@ -1,19 +1,19 @@
 80
-Observatory
-Stadium
-Medarot Laboratory
-Dad's Hometown
-Ruins
-Medal Dig Site
-Shopping District
-Insect Professor's Laboratory
-Shinobic Park
-Medarot Company
-School
-Local Shrine
+Observatorio
+Estadio
+Laboratorio Medarot
+Pueblo de Papá
+Ruinas
+Excavacion de medallas
+Distrito de compras
+Lab de profesor Insecto
+Parque Shinobic
+Medarot Corp
+Escuela
+Templo
 Harbor Town
-Select Headquarters
-Select Headquarters
-Mountain Village
-Mountainside
-Downtown
+Cuarteles Select
+Cuarteles Select
+Aldea de la montaña
+Ladera de la montaña
+Centro

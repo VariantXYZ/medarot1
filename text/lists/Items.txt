@@ -1,6 +1,6 @@
 32|80|0
 Exit
-RoboRobo Medal
+Medalla RoboRobo
 Lottery Ticket
 Mr. Wataru Lure
 Handmade Lure
@@ -29,7 +29,7 @@ Kirara's Phone
 Wings of Wind
 Mini-Handle
 Periscope
-Town Map
+Mapa
 Shinobi Ticket
 RoboRobo Card
 RoboRobo Badge
